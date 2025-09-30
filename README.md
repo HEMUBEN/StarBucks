@@ -1,7 +1,7 @@
 # STARBUCKS- DASHBOARD
 Recommended Structure and Order
-1) STARBUCKS
-Headline
+#1) STARBUCKS
+#Headline
 "To inspire and nurture the human spirit — one person, one cup, and one neighborhood at a time".
 Example:
 * Star Analytics: Global Starbucks Report Insights Dashboard
