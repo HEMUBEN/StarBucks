@@ -1,27 +1,27 @@
 # STARBUCKS- DASHBOARD
 Recommended Structure and Order
 1) STARBUCKS
-   Headline: "To inspire and nurture the human spirit — one person, one cup, and one neighborhood at a time".
-   Example:
-   * Star Analytics: Global Starbucks Report Insights Dashboard
-   A dynamic, interactive data visualization tool built to explore starbucks data worldwide-focusing on regional comparisons.
+Headline: "To inspire and nurture the human spirit — one person, one cup, and one neighborhood at a time".
+Example:
+* Star Analytics: Global Starbucks Report Insights Dashboard
+A dynamic, interactive data visualization tool built to explore starbucks data worldwide-focusing on regional comparisons.
 
-2) Short Description / Purpose
-   * Starbucks is not just about selling coffee — its purpose is rooted in creating a welcoming experience, fostering human connection, and positively impacting communities.
-   * Starbucks’ purpose is about more than coffee — it's about making meaningful connections, promoting well-being, and being a responsible global and local citizen.
+3) Short Description / Purpose
+* Starbucks is not just about selling coffee — its purpose is rooted in creating a welcoming experience, fostering human connection, and positively impacting communities.
+* Starbucks’ purpose is about more than coffee — it's about making meaningful connections, promoting well-being, and being a responsible global and local citizen.
      
-3) Technologies
-   List the key technologies used to build the dashboard.
-   Example:
-   The dashboard was built using the following tools and technologies:
-   🖥️ 1. Power BI
-          Purpose: Used for interactive dashboards, data visualization, and business reporting.
-          Users: Analysts, managers, and decision-makers.
-          Features Used:
-          Real-time dashboards
-          Data modeling using DAX
-          Row-level security
-          Embedded analytics (into internal portals or apps)
+4) Technologies
+ List the key technologies used to build the dashboard.
+Example:
+The dashboard was built using the following tools and technologies:
+🖥️ 1. Power BI
+   Purpose: Used for interactive dashboards, data visualization, and business reporting.
+   Users: Analysts, managers, and decision-makers.
+   Features Used:
+   Real-time dashboards
+   Data modeling using DAX
+   Row-level security
+   Embedded analytics (into internal portals or apps)
    🗃️ 2. Data Storage & Warehousing
           Technology Purpose
           Azure Synapse Analytics or SQL Server---	Enterprise-level data warehousing for structured data
@@ -36,7 +36,7 @@ Recommended Structure and Order
           Power BI Embedded--- Embedding dashboards into custom portals or partner apps
           Mobile BI Apps--- For store managers to monitor performance on the go (e.g., via Power BI mobile app)
    
-4) Data Sources Starbucks Might Connect to
+6) Data Sources Starbucks Might Connect to
    POS Systems (e.g., Oracle MICROS)
    CRM Systems (e.g., Salesforce)
    Loyalty Programs / Starbucks App Data
@@ -44,7 +44,7 @@ Recommended Structure and Order
    Supply Chain Systems
    HR Platforms (for partner analytics)
 
-5) Features / Highlights
+7) Features / Highlights
    The best Dashboard explanation format.
    * Business Problem
    * Goal of dashboard
