@@ -55,8 +55,7 @@ The dashboard was built using the following tools and technologies:
    * Business impact & Insights
 
 Example:-
-Business Problem.
-Sales & Revenue
+Business Problem & Sales & Revenue
 1. The total revenue is ₹4.6M – which product contributes the most revenue, and why do you think it performs better than others?2
 2. The average unit price is 22.55 – what insights can you derive about pricing strategy from this?
 3. Coffee Beans, Tumblers, and Gift Cards are top-selling products. How should Starbucks adjust inventory or promotions based on this trend?
