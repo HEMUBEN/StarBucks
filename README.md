@@ -66,14 +66,14 @@ Business Problem & Sales & Revenue
 8. Based on the sum of unit price by payment method and order type, how can Starbucks create targeted offers (e.g., discounts for takeaway or mobile payments)?
 9. If sales goals are exceeded by 2400%, what strategies should management take to sustain this growth?
 
-# Business Impact & Insights
+# 6) Business Impact & Insights
 * Starbucks is showing strong growth, premium positioning, and diversified revenue streams (coffee + food + merchandise). However, to stay competitive, Starbucks must reduce over-reliance on a few products, 
   expand digital channels, and balance sales across categories.
 * Upsell & Cross-Sell: Pairing high-margin products (Tumblers, Coffee Beans) with beverages could increase basket size.
   Digital Transformation: Boosting Mobile App payments and Delivery services can improve convenience and strengthen loyalty programs.
   Diversification: Underperforming categories like Espresso, Mocha, Cold Brew need targeted promotions to balance product mix.
 
-# 6) ScreenShot / Demos
+# 7) ScreenShot / Demos
    Show what the table looks like
    Dashboard Preview
    (https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png)
