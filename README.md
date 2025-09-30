@@ -75,7 +75,8 @@ Business Problem & Sales & Revenue
 
 # 6) ScreenShot / Demos
    Show what the table looks like
-   Dashboard Preview =======>>>>>>>>>> (https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png)
+   Dashboard Preview
+   (https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png)
 
 
                      
