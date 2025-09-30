@@ -24,18 +24,20 @@ The dashboard was built using the following tools and technologies:
    Embedded analytics (into internal portals or apps)
   
 * 🗃️ Data Storage & Warehousing
-          Technology Purpose
-          Azure Synapse Analytics or SQL Server---	Enterprise-level data warehousing for structured data
-          Azure Data Lake--- For handling large-scale unstructured/semi-structured data
-          Snowflake (potentially)--- Cloud data platform used by many retail companies for scalability
-   🔄 3. Data Integration & ETL Tools
-          Azure Data Factory---- ETL/ELT processes — moving and transforming data from various sources
-          Apache Kafk--- Real-time data streaming (e.g., from POS systems)
-          Databricks--- Advanced analytics and machine learning on big data
-   📲 4. Front-End & App Technologies
-          React / Angular--- Internal web apps and dashboards
-          Power BI Embedded--- Embedding dashboards into custom portals or partner apps
-          Mobile BI Apps--- For store managers to monitor performance on the go (e.g., via Power BI mobile app)
+  Technology Purpose
+  Azure Synapse Analytics or SQL Server---	Enterprise-level data warehousing for structured data
+  Azure Data Lake--- For handling large-scale unstructured/semi-structured data
+  Snowflake (potentially)--- Cloud data platform used by many retail companies for scalability
+  
+* 🔄 Data Integration & ETL Tools
+  Azure Data Factory---- ETL/ELT processes — moving and transforming data from various sources
+  Apache Kafk--- Real-time data streaming (e.g., from POS systems)
+  Databricks--- Advanced analytics and machine learning on big data
+  
+* 📲  Front-End & App Technologies
+  React / Angular--- Internal web apps and dashboards
+  Power BI Embedded--- Embedding dashboards into custom portals or partner apps
+  Mobile BI Apps--- For store managers to monitor performance on the go (e.g., via Power BI mobile app)
    
 6) Data Sources Starbucks Might Connect to
    POS Systems (e.g., Oracle MICROS)
