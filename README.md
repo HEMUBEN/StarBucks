@@ -11,7 +11,7 @@ A dynamic, interactive data visualization tool built to explore starbucks data w
 * Starbucks’ purpose is about more than coffee — it's about making meaningful connections, promoting well-being, and being a responsible global and local citizen.
      
 4) Technologies
- List the key technologies used to build the dashboard.
+List the key technologies used to build the dashboard.
 Example:
 The dashboard was built using the following tools and technologies:
 * 🖥️ Power BI
