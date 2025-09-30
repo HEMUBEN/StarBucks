@@ -1,17 +1,16 @@
 # STARBUCKS- DASHBOARD
 Recommended Structure and Order
-# 1) STARBUCKS
-# Headline
+# 1) STARBUCKS PROJECT
 "To inspire and nurture the human spirit — one person, one cup, and one neighborhood at a time".
 Example:
 * Star Analytics: Global Starbucks Report Insights Dashboard
 A dynamic, interactive data visualization tool built to explore starbucks data worldwide-focusing on regional comparisons.
 
-2) Short Description / Purpose
+# 2) Short Description / Purpose
 * Starbucks is not just about selling coffee — its purpose is rooted in creating a welcoming experience, fostering human connection, and positively impacting communities.
 * Starbucks’ purpose is about more than coffee — it's about making meaningful connections, promoting well-being, and being a responsible global and local citizen.
      
-3) Technologies
+# 3) Technologies
 List the key technologies used to build the dashboard.
 Example:
 The dashboard was built using the following tools and technologies:
@@ -40,7 +39,7 @@ The dashboard was built using the following tools and technologies:
   Power BI Embedded--- Embedding dashboards into custom portals or partner apps
   Mobile BI Apps--- For store managers to monitor performance on the go (e.g., via Power BI mobile app)
    
-4) Data Sources Starbucks Might Connect to
+# 4) Data Sources Starbucks Might Connect to
    POS Systems (e.g., Oracle MICROS)
    CRM Systems (e.g., Salesforce)
    Loyalty Programs / Starbucks App Data
@@ -48,7 +47,7 @@ The dashboard was built using the following tools and technologies:
    Supply Chain Systems
    HR Platforms (for partner analytics)
 
-5) Features / Highlights
+# 5) Features / Highlights
    The best Dashboard explanation format.
    * Business Problem
    * Goal of dashboard
@@ -67,14 +66,14 @@ Business Problem & Sales & Revenue
 8. Based on the sum of unit price by payment method and order type, how can Starbucks create targeted offers (e.g., discounts for takeaway or mobile payments)?
 9. If sales goals are exceeded by 2400%, what strategies should management take to sustain this growth?
 
-Business Impact & Insights
+# Business Impact & Insights
 * Starbucks is showing strong growth, premium positioning, and diversified revenue streams (coffee + food + merchandise). However, to stay competitive, Starbucks must reduce over-reliance on a few products, 
   expand digital channels, and balance sales across categories.
 * Upsell & Cross-Sell: Pairing high-margin products (Tumblers, Coffee Beans) with beverages could increase basket size.
   Digital Transformation: Boosting Mobile App payments and Delivery services can improve convenience and strengthen loyalty programs.
   Diversification: Underperforming categories like Espresso, Mocha, Cold Brew need targeted promotions to balance product mix.
 
-6) ScreenShot / Demos
+# 6) ScreenShot / Demos
    Show what the table looks like
    Dashboard Preview =======>>>>>>>>>> (https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png)
 
