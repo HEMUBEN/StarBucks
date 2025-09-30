@@ -14,7 +14,7 @@ A dynamic, interactive data visualization tool built to explore starbucks data w
  List the key technologies used to build the dashboard.
 Example:
 The dashboard was built using the following tools and technologies:
-🖥️ 1. Power BI
+* 🖥️ Power BI
    Purpose: Used for interactive dashboards, data visualization, and business reporting.
    Users: Analysts, managers, and decision-makers.
    Features Used:
@@ -22,7 +22,8 @@ The dashboard was built using the following tools and technologies:
    Data modeling using DAX
    Row-level security
    Embedded analytics (into internal portals or apps)
-   🗃️ 2. Data Storage & Warehousing
+  
+* 🗃️ Data Storage & Warehousing
           Technology Purpose
           Azure Synapse Analytics or SQL Server---	Enterprise-level data warehousing for structured data
           Azure Data Lake--- For handling large-scale unstructured/semi-structured data
