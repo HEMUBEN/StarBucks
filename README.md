@@ -55,26 +55,24 @@ The dashboard was built using the following tools and technologies:
    * Business impact & Insights
 
 Example:-
-  Business Problem.
-  ===> Sales & Revenue
-        1. The total revenue is ₹4.6M – which product contributes the most revenue, and why do you think it performs better than others?
-        2. The average unit price is 22.55 – what insights can you derive about pricing strategy from this?
-        3. Coffee Beans, Tumblers, and Gift Cards are top-selling products. How should Starbucks adjust inventory or promotions based on this trend?
-  ===> Customer Behavior
-        4. Which order type (In-store, Drive-Thru, Takeaway, Delivery) contributes the most sales, and how can Starbucks enhance customer experience in this area?
-        5. Looking at the payment method breakdown, Credit Cards (21%) are most used. What strategies could Starbucks use to promote mobile payments or gift cards?
-        6. The data shows high sales of Merchandise (Tumblers, Mugs). What does this indicate about customer behavior beyond food and beverage purchases?
-  ===> Operational & Marketing
-        7. Which product category (Beverage, Food, Merchandise) has the lowest quantity sold, and how could Starbucks boost its sales?
-        8. Based on the sum of unit price by payment method and order type, how can Starbucks create targeted offers (e.g., discounts for takeaway or mobile payments)?
-        9. If sales goals are exceeded by 2400%, what strategies should management take to sustain this growth?
+Business Problem.
+Sales & Revenue
+1. The total revenue is ₹4.6M – which product contributes the most revenue, and why do you think it performs better than others?2
+2. The average unit price is 22.55 – what insights can you derive about pricing strategy from this?
+3. Coffee Beans, Tumblers, and Gift Cards are top-selling products. How should Starbucks adjust inventory or promotions based on this trend?
+4. Which order type (In-store, Drive-Thru, Takeaway, Delivery) contributes the most sales, and how can Starbucks enhance customer experience in this area?
+5. Looking at the payment method breakdown, Credit Cards (21%) are most used. What strategies could Starbucks use to promote mobile payments or gift cards?
+6. The data shows high sales of Merchandise (Tumblers, Mugs). What does this indicate about customer behavior beyond food and beverage purchases?
+7. Which product category (Beverage, Food, Merchandise) has the lowest quantity sold, and how could Starbucks boost its sales?
+8. Based on the sum of unit price by payment method and order type, how can Starbucks create targeted offers (e.g., discounts for takeaway or mobile payments)?
+9. If sales goals are exceeded by 2400%, what strategies should management take to sustain this growth?
 
 Business Impact & Insights
-   * Starbucks is showing strong growth, premium positioning, and diversified revenue streams (coffee + food + merchandise). However, to stay competitive, Starbucks must reduce over-reliance on a few products, 
-     expand digital channels, and balance sales across categories.
-   * Upsell & Cross-Sell: Pairing high-margin products (Tumblers, Coffee Beans) with beverages could increase basket size.
-     Digital Transformation: Boosting Mobile App payments and Delivery services can improve convenience and strengthen loyalty programs.
-     Diversification: Underperforming categories like Espresso, Mocha, Cold Brew need targeted promotions to balance product mix.
+* Starbucks is showing strong growth, premium positioning, and diversified revenue streams (coffee + food + merchandise). However, to stay competitive, Starbucks must reduce over-reliance on a few products, 
+  expand digital channels, and balance sales across categories.
+* Upsell & Cross-Sell: Pairing high-margin products (Tumblers, Coffee Beans) with beverages could increase basket size.
+  Digital Transformation: Boosting Mobile App payments and Delivery services can improve convenience and strengthen loyalty programs.
+  Diversification: Underperforming categories like Espresso, Mocha, Cold Brew need targeted promotions to balance product mix.
 
 6) ScreenShot / Demos
    Show what the table looks like
