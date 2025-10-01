@@ -73,7 +73,7 @@ Business Problem & Sales & Revenue
   Digital Transformation: Boosting Mobile App payments and Delivery services can improve convenience and strengthen loyalty programs.
   Diversification: Underperforming categories like Espresso, Mocha, Cold Brew need targeted promotions to balance product mix.
 
-# 7) ScreenShot / Demos
+# 7) StarBucks Project Dahboard
    Show what the table looks like
    Dashboard Preview
    (https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png)
