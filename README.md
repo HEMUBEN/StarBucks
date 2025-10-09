@@ -74,9 +74,8 @@ Business Problem & Sales & Revenue
   Diversification: Underperforming categories like Espresso, Mocha, Cold Brew need targeted promotions to balance product mix.
 
 # 7) StarBucks Project Dahboard
-   Show what the table looks like
-   Dashboard Preview
-   (https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png)
+   Show what the table looks likeDashboard Preview
+   ===> https://github.com/HEMUBEN/StarBucks/blob/main/StarBucks%20Dashboard.png
 
 
                      
