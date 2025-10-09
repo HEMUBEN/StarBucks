@@ -1,4 +1,4 @@
-# STARBUCKS - DASHBOARD ☕☕☕
+# STARBUCKS DASHBOARD ☕☕☕
 Recommended Structure and Order
 # 1) STARBUCKS PROJECT
 "To inspire and nurture the human spirit — one person, one cup, and one neighborhood at a time".
